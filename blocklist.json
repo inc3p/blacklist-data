@@ -1,0 +1,12 @@
+{
+  "blockedSites": [
+    "example.com",
+    "badsite.ru",
+    "tracker.com"
+  ],
+  "trackerPatterns": [
+    "*://*.doubleclick.net/*",
+    "*://*.google-analytics.com/*",
+    "*://*.tracker.com/*"
+  ]
+}
