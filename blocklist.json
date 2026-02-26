@@ -2,8 +2,9 @@
   "blockedSites": [
     "example.com",
     "badsite.ru",
-    "tracker.com"
-    "www.youtube.com"
+    "tracker.com",
+    "www.youtube.com",
+    "https://vk.com/feed"
   ],
   "trackerPatterns": [
     "*://*.doubleclick.net/*",
