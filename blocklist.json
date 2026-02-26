@@ -3,8 +3,7 @@
     "example.com",
     "badsite.ru",
     "tracker.com",
-    "https://www.youtube.com",
-    "https://ru.pinterest.com"
+    "https://www.youtube.com"    
   ],
   "trackerPatterns": [
     "*://*.doubleclick.net/*",
