@@ -3,7 +3,7 @@
     "example.com",
     "badsite.ru",
     "tracker.com"
-    "vk.com/feed"
+    "www.youtube.com"
   ],
   "trackerPatterns": [
     "*://*.doubleclick.net/*",
