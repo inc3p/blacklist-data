@@ -4,7 +4,7 @@
     "badsite.ru",
     "tracker.com",
     "youtube.com",
-    "vk.com"
+    "https://ru.pinterest.com"
   ],
   "trackerPatterns": [
     "*://*.doubleclick.net/*",
