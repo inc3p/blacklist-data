@@ -3,7 +3,7 @@
     "example.com",
     "badsite.ru",
     "tracker.com",
-    "youtube.com",
+    "https://www.youtube.com",
     "https://ru.pinterest.com"
   ],
   "trackerPatterns": [
